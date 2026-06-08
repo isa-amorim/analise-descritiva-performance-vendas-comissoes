@@ -1,7 +1,7 @@
 # analise-descritiva-performance-vendas-comissoes
 Projeto de análise descritiva e auditoria financeira utilizando SQL avançado para avaliar a performance de equipes comerciais, mapear perfis de vendedores e otimizar o cálculo de comissões bancárias.
 
-# 📊 Sales Performance & Commission Audit
+# 📊 Performance Comercial & Otimização de Comissões
 ### Auditoria Financeira e Análise de Performance Comercial com SQL Avançado | PostgreSQL
 
 > Projeto de análise descritiva que mapeia o desempenho de equipes de vendas, perfila vendedores por senioridade e automatiza o cálculo preciso de comissões bancárias por categoria de produto — eliminando ambiguidade nos pagamentos e gerando visibilidade estratégica para as áreas Financeira e Comercial.
