@@ -104,12 +104,7 @@ A automação e análise das queries entregam valor concreto para três frentes 
 ### 1. Área Financeira: Auditabilidade e Precisão
 
 A aplicação da lógica de comissionamento variável foi automatizada com base nas regras do negócio:
-
-| Categoria | Taxa de Comissão |
-| --- | --- |
-| 🪑 Furniture | 3% sobre o valor |
-| 🖊️ Office Supplies | 5% sobre o valor |
-| 💻 Technology | 2% sobre o valor |
+Móveis: 3%, Suprimentos: 5%, Tecnologia: 2%
 
 O cálculo deixa de ser um processo manual passível de erros operacionais, tornando-se uma rotina SQL rastreável, rápida e totalmente auditável para os fechamentos mensais.
 
