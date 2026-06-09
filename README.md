@@ -101,6 +101,14 @@ As queries SQL direcionadas para responder às perguntas de negócio podem ser e
 
 ---
 
+### 📂 Fonte dos Dados
+
+Os dados utilizados neste projeto foram extraídos do dataset público **Superstore Sales Dataset**, disponível na plataforma Kaggle através deste [https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting]. 
+
+A base original contém o histórico de transações comerciais, permitindo a análise de faturamento, performance de produtos por categoria e a modelagem do sistema de comissões.
+
+---
+
 
 ## 🎯 Resultados Obtidos & Impacto
 
