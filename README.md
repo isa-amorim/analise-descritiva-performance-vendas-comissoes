@@ -139,7 +139,7 @@ psql -U seu_usuario -d seu_banco -f schema/tabela_vendedores.sql
 
 ## 👤 Autor
 
-Feito com 🎯 por **[Seu Nome]**
+Feito com 🎯 por **Isabelle**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/isabelleamorimb)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/isa-amorim)
